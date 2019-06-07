@@ -1,0 +1,1 @@
+wykona³am zadnie

@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(12): error C2040: "wyraz": "char [100]"różni się w poziomach pośredników od "int"
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(13): error C2065: "i": niezadeklarowany identyfikator
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(15): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(16): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „cout”
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(16): error C2109: indeks dolny wymaga tablicy lub wskaźnika typu
+c:\users\sala_5_09\documents\uwu\project1\project1\źródło.cpp(23): error C2143: błąd składniowy: brakuje „;” przed „}”
